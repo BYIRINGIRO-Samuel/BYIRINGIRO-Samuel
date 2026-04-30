@@ -2,9 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,50:0d1117,100:161b22&height=180&section=header&text=Samuel%20Byiringiro&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%26%20Design%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
 </div>
 
+<!--
 <div align="center">
   <img src="./github_manga_banner_1777527557859.png" width="100%" alt="Samuel Banner" />
 </div>
+-->
 
 <br/>
 
@@ -66,7 +68,6 @@ Welcome to my GitHub profile!
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
 ![Spring Boot](https://img.shields.io/badge/Spring--Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![GoLang](https://img.shields.io/badge/GoLang-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
@@ -93,14 +94,9 @@ Welcome to my GitHub profile!
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Google Cloud](https://img.shields.io/badge/Google--Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
-![GitHub Actions](https://img.shields.io/badge/Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=009639)
 ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=7B42BC)
 
 </div>
 
@@ -124,8 +120,6 @@ I'm always open to collaboration and sharing ideas.
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=BYIRINGIRO-Samuel&style=flat-square&color=059669&label=profile+views" />
 
 <br/><br/>
 
